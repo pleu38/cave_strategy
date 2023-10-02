@@ -2,6 +2,9 @@
 
 This is a custom Lovelace strategy for Home Assistant that displays wine storage information in a visually appealing way. It creates a layout to represent wine storage shelves and bottles in a wine cellar.
 
+![](https://github.com/pleu38/cave_strategy/blob/main/docs/preview_cave.gif)
+
+
 ## Installation
 
 1. Copy the content of the `strategy-cave-a-vin.js` file.
