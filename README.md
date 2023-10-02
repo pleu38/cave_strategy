@@ -29,11 +29,8 @@ You can fork as you want the file.
 
 ```yaml
 views:
-  - title: Wine Cellar
-    path: wine-cellar
-    icon: mdi:wine-bottle
-    cards:
-      - type: "custom:ll-strategy-pl-cave"
+  - strategy:
+      type: custom:pl-cave
 ```
 
 ## Credits
