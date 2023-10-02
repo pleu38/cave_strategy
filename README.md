@@ -34,9 +34,10 @@ views:
     icon: mdi:wine-bottle
     cards:
       - type: "custom:ll-strategy-pl-cave"
+```
 
 ## Credits
-This custom Lovelace strategy is developed and maintained by [Your Name].
+This custom Lovelace strategy is developed and maintained by Pleu.
 
 ### License
 This project is licensed under the MIT License - see the LICENSE file for details.
